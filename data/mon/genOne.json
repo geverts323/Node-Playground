@@ -1,0 +1,465 @@
+{
+    "name": "charizard",
+    "id": 6,
+    "order": 7,
+    "height": 17,
+    "stats": {
+        "hp": 78,
+        "attack": 84,
+        "defense": 78,
+        "special-attack": 109,
+        "special-defense": 85,
+        "speed": 100
+    },
+    "types": {
+        "type1": "fire",
+        "type2": "flying"
+    },
+    "abilities": {
+        "base": [
+            "blaze"
+        ],
+        "hidden": [
+            "solar-power"
+        ]
+    },
+    "moves": [
+        {
+            "name": "mega-punch",
+            "level": 0
+        },
+        {
+            "name": "fire-punch",
+            "level": 0
+        },
+        {
+            "name": "thunder-punch",
+            "level": 0
+        },
+        {
+            "name": "scratch",
+            "level": 1
+        },
+        {
+            "name": "swords-dance",
+            "level": 0
+        },
+        {
+            "name": "cut",
+            "level": 0
+        },
+        {
+            "name": "wing-attack",
+            "level": 36
+        },
+        {
+            "name": "fly",
+            "level": 0
+        },
+        {
+            "name": "mega-kick",
+            "level": 0
+        },
+        {
+            "name": "headbutt",
+            "level": 0
+        },
+        {
+            "name": "body-slam",
+            "level": 0
+        },
+        {
+            "name": "take-down",
+            "level": 0
+        },
+        {
+            "name": "double-edge",
+            "level": 0
+        },
+        {
+            "name": "leer",
+            "level": 1
+        },
+        {
+            "name": "growl",
+            "level": 1
+        },
+        {
+            "name": "roar",
+            "level": 0
+        },
+        {
+            "name": "ember",
+            "level": 1
+        },
+        {
+            "name": "flamethrower",
+            "level": 46
+        },
+        {
+            "name": "hyper-beam",
+            "level": 0
+        },
+        {
+            "name": "submission",
+            "level": 0
+        },
+        {
+            "name": "counter",
+            "level": 0
+        },
+        {
+            "name": "seismic-toss",
+            "level": 0
+        },
+        {
+            "name": "strength",
+            "level": 0
+        },
+        {
+            "name": "solar-beam",
+            "level": 0
+        },
+        {
+            "name": "dragon-rage",
+            "level": 0
+        },
+        {
+            "name": "fire-spin",
+            "level": 55
+        },
+        {
+            "name": "earthquake",
+            "level": 0
+        },
+        {
+            "name": "fissure",
+            "level": 0
+        },
+        {
+            "name": "dig",
+            "level": 0
+        },
+        {
+            "name": "toxic",
+            "level": 0
+        },
+        {
+            "name": "rage",
+            "level": 24
+        },
+        {
+            "name": "mimic",
+            "level": 0
+        },
+        {
+            "name": "double-team",
+            "level": 0
+        },
+        {
+            "name": "smokescreen",
+            "level": 1
+        },
+        {
+            "name": "defense-curl",
+            "level": 0
+        },
+        {
+            "name": "reflect",
+            "level": 0
+        },
+        {
+            "name": "bide",
+            "level": 0
+        },
+        {
+            "name": "fire-blast",
+            "level": 0
+        },
+        {
+            "name": "swift",
+            "level": 0
+        },
+        {
+            "name": "skull-bash",
+            "level": 0
+        },
+        {
+            "name": "rest",
+            "level": 0
+        },
+        {
+            "name": "rock-slide",
+            "level": 0
+        },
+        {
+            "name": "slash",
+            "level": 36
+        },
+        {
+            "name": "substitute",
+            "level": 0
+        },
+        {
+            "name": "snore",
+            "level": 0
+        },
+        {
+            "name": "curse",
+            "level": 0
+        },
+        {
+            "name": "protect",
+            "level": 0
+        },
+        {
+            "name": "scary-face",
+            "level": 27
+        },
+        {
+            "name": "mud-slap",
+            "level": 0
+        },
+        {
+            "name": "outrage",
+            "level": 0
+        },
+        {
+            "name": "sandstorm",
+            "level": 0
+        },
+        {
+            "name": "endure",
+            "level": 0
+        },
+        {
+            "name": "swagger",
+            "level": 0
+        },
+        {
+            "name": "fury-cutter",
+            "level": 0
+        },
+        {
+            "name": "steel-wing",
+            "level": 0
+        },
+        {
+            "name": "attract",
+            "level": 0
+        },
+        {
+            "name": "sleep-talk",
+            "level": 0
+        },
+        {
+            "name": "return",
+            "level": 0
+        },
+        {
+            "name": "frustration",
+            "level": 0
+        },
+        {
+            "name": "dynamic-punch",
+            "level": 0
+        },
+        {
+            "name": "dragon-breath",
+            "level": 0
+        },
+        {
+            "name": "iron-tail",
+            "level": 0
+        },
+        {
+            "name": "metal-claw",
+            "level": 1
+        },
+        {
+            "name": "hidden-power",
+            "level": 0
+        },
+        {
+            "name": "twister",
+            "level": 0
+        },
+        {
+            "name": "sunny-day",
+            "level": 0
+        },
+        {
+            "name": "rock-smash",
+            "level": 0
+        },
+        {
+            "name": "heat-wave",
+            "level": 1
+        },
+        {
+            "name": "will-o-wisp",
+            "level": 0
+        },
+        {
+            "name": "facade",
+            "level": 0
+        },
+        {
+            "name": "focus-punch",
+            "level": 0
+        },
+        {
+            "name": "brick-break",
+            "level": 0
+        },
+        {
+            "name": "secret-power",
+            "level": 0
+        },
+        {
+            "name": "blast-burn",
+            "level": 0
+        },
+        {
+            "name": "air-cutter",
+            "level": 0
+        },
+        {
+            "name": "overheat",
+            "level": 0
+        },
+        {
+            "name": "rock-tomb",
+            "level": 0
+        },
+        {
+            "name": "aerial-ace",
+            "level": 0
+        },
+        {
+            "name": "dragon-claw",
+            "level": 0
+        },
+        {
+            "name": "roost",
+            "level": 0
+        },
+        {
+            "name": "natural-gift",
+            "level": 0
+        },
+        {
+            "name": "tailwind",
+            "level": 0
+        },
+        {
+            "name": "fling",
+            "level": 0
+        },
+        {
+            "name": "flare-blitz",
+            "level": 66
+        },
+        {
+            "name": "air-slash",
+            "level": 1
+        },
+        {
+            "name": "dragon-pulse",
+            "level": 0
+        },
+        {
+            "name": "focus-blast",
+            "level": 0
+        },
+        {
+            "name": "giga-impact",
+            "level": 0
+        },
+        {
+            "name": "shadow-claw",
+            "level": 1
+        },
+        {
+            "name": "fire-fang",
+            "level": 28
+        },
+        {
+            "name": "defog",
+            "level": 0
+        },
+        {
+            "name": "captivate",
+            "level": 0
+        },
+        {
+            "name": "ominous-wind",
+            "level": 0
+        },
+        {
+            "name": "hone-claws",
+            "level": 0
+        },
+        {
+            "name": "flame-burst",
+            "level": 32
+        },
+        {
+            "name": "flame-charge",
+            "level": 0
+        },
+        {
+            "name": "round",
+            "level": 0
+        },
+        {
+            "name": "echoed-voice",
+            "level": 0
+        },
+        {
+            "name": "sky-drop",
+            "level": 0
+        },
+        {
+            "name": "incinerate",
+            "level": 0
+        },
+        {
+            "name": "inferno",
+            "level": 62
+        },
+        {
+            "name": "fire-pledge",
+            "level": 0
+        },
+        {
+            "name": "bulldoze",
+            "level": 0
+        },
+        {
+            "name": "dragon-tail",
+            "level": 0
+        },
+        {
+            "name": "work-up",
+            "level": 0
+        },
+        {
+            "name": "confide",
+            "level": 0
+        },
+        {
+            "name": "power-up-punch",
+            "level": 0
+        },
+        {
+            "name": "brutal-swing",
+            "level": 0
+        }
+    ],
+    "sprites": {
+        "default_sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+        "shiny_sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/6.png",
+        "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png"
+    }
+}
