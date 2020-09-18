@@ -16,16 +16,13 @@ function getSingleMon(monNum) {
 }
 
 function writeMon(monData) { 
-    fs.writeFile('./data/mon/genOne.json', JSON.stringify(monData), function(err) {
+    fs.writeFile('./data/mon/gen8/' + monData.name + '.json', JSON.stringify(monData), function(err) {
         if (err) throw err;
         console.log('Saved Mon');
     });
 }
 
-let array = []
 
-for (let i = 1; i <= 10; i++) {
-    array.push(getSingleMon(i))
+for (let i = 810; i <= 893; i++) {
+    getSingleMon(i);
 }
-
-writeMon(array);

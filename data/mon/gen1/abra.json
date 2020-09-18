@@ -1,26 +1,27 @@
 {
-    "name": "charizard",
-    "id": 6,
-    "order": 7,
-    "height": 17,
+    "name": "abra",
+    "id": 63,
+    "order": 100,
+    "height": 9,
     "stats": {
-        "hp": 78,
-        "attack": 84,
-        "defense": 78,
-        "special-attack": 109,
-        "special-defense": 85,
-        "speed": 100
+        "hp": 25,
+        "attack": 20,
+        "defense": 15,
+        "special-attack": 105,
+        "special-defense": 55,
+        "speed": 90
     },
     "types": {
-        "type1": "fire",
-        "type2": "flying"
+        "type1": "psychic",
+        "type2": "null"
     },
     "abilities": {
         "base": [
-            "blaze"
+            "synchronize",
+            "inner-focus"
         ],
         "hidden": [
-            "solar-power"
+            "magic-guard"
         ]
     },
     "moves": [
@@ -33,27 +34,11 @@
             "level": 0
         },
         {
+            "name": "ice-punch",
+            "level": 0
+        },
+        {
             "name": "thunder-punch",
-            "level": 0
-        },
-        {
-            "name": "scratch",
-            "level": 1
-        },
-        {
-            "name": "swords-dance",
-            "level": 0
-        },
-        {
-            "name": "cut",
-            "level": 0
-        },
-        {
-            "name": "wing-attack",
-            "level": 36
-        },
-        {
-            "name": "fly",
             "level": 0
         },
         {
@@ -77,30 +62,6 @@
             "level": 0
         },
         {
-            "name": "leer",
-            "level": 1
-        },
-        {
-            "name": "growl",
-            "level": 1
-        },
-        {
-            "name": "roar",
-            "level": 0
-        },
-        {
-            "name": "ember",
-            "level": 1
-        },
-        {
-            "name": "flamethrower",
-            "level": 46
-        },
-        {
-            "name": "hyper-beam",
-            "level": 0
-        },
-        {
             "name": "submission",
             "level": 0
         },
@@ -113,31 +74,7 @@
             "level": 0
         },
         {
-            "name": "strength",
-            "level": 0
-        },
-        {
-            "name": "solar-beam",
-            "level": 0
-        },
-        {
-            "name": "dragon-rage",
-            "level": 0
-        },
-        {
-            "name": "fire-spin",
-            "level": 55
-        },
-        {
-            "name": "earthquake",
-            "level": 0
-        },
-        {
-            "name": "fissure",
-            "level": 0
-        },
-        {
-            "name": "dig",
+            "name": "thunder-wave",
             "level": 0
         },
         {
@@ -145,8 +82,16 @@
             "level": 0
         },
         {
+            "name": "psychic",
+            "level": 0
+        },
+        {
             "name": "rage",
-            "level": 24
+            "level": 0
+        },
+        {
+            "name": "teleport",
+            "level": 1
         },
         {
             "name": "mimic",
@@ -157,11 +102,11 @@
             "level": 0
         },
         {
-            "name": "smokescreen",
-            "level": 1
+            "name": "barrier",
+            "level": 0
         },
         {
-            "name": "defense-curl",
+            "name": "light-screen",
             "level": 0
         },
         {
@@ -173,11 +118,7 @@
             "level": 0
         },
         {
-            "name": "fire-blast",
-            "level": 0
-        },
-        {
-            "name": "swift",
+            "name": "metronome",
             "level": 0
         },
         {
@@ -185,19 +126,35 @@
             "level": 0
         },
         {
+            "name": "dream-eater",
+            "level": 0
+        },
+        {
+            "name": "flash",
+            "level": 0
+        },
+        {
+            "name": "psywave",
+            "level": 0
+        },
+        {
             "name": "rest",
             "level": 0
         },
         {
-            "name": "rock-slide",
+            "name": "tri-attack",
             "level": 0
         },
         {
-            "name": "slash",
-            "level": 36
+            "name": "substitute",
+            "level": 0
         },
         {
-            "name": "substitute",
+            "name": "thief",
+            "level": 0
+        },
+        {
+            "name": "nightmare",
             "level": 0
         },
         {
@@ -213,19 +170,7 @@
             "level": 0
         },
         {
-            "name": "scary-face",
-            "level": 27
-        },
-        {
-            "name": "mud-slap",
-            "level": 0
-        },
-        {
-            "name": "outrage",
-            "level": 0
-        },
-        {
-            "name": "sandstorm",
+            "name": "zap-cannon",
             "level": 0
         },
         {
@@ -234,14 +179,6 @@
         },
         {
             "name": "swagger",
-            "level": 0
-        },
-        {
-            "name": "fury-cutter",
-            "level": 0
-        },
-        {
-            "name": "steel-wing",
             "level": 0
         },
         {
@@ -261,11 +198,15 @@
             "level": 0
         },
         {
+            "name": "safeguard",
+            "level": 0
+        },
+        {
             "name": "dynamic-punch",
             "level": 0
         },
         {
-            "name": "dragon-breath",
+            "name": "encore",
             "level": 0
         },
         {
@@ -273,15 +214,11 @@
             "level": 0
         },
         {
-            "name": "metal-claw",
-            "level": 1
-        },
-        {
             "name": "hidden-power",
             "level": 0
         },
         {
-            "name": "twister",
+            "name": "rain-dance",
             "level": 0
         },
         {
@@ -289,15 +226,15 @@
             "level": 0
         },
         {
-            "name": "rock-smash",
+            "name": "psych-up",
             "level": 0
         },
         {
-            "name": "heat-wave",
-            "level": 1
+            "name": "shadow-ball",
+            "level": 0
         },
         {
-            "name": "will-o-wisp",
+            "name": "torment",
             "level": 0
         },
         {
@@ -309,7 +246,35 @@
             "level": 0
         },
         {
-            "name": "brick-break",
+            "name": "taunt",
+            "level": 0
+        },
+        {
+            "name": "trick",
+            "level": 0
+        },
+        {
+            "name": "role-play",
+            "level": 0
+        },
+        {
+            "name": "magic-coat",
+            "level": 0
+        },
+        {
+            "name": "recycle",
+            "level": 0
+        },
+        {
+            "name": "knock-off",
+            "level": 0
+        },
+        {
+            "name": "skill-swap",
+            "level": 0
+        },
+        {
+            "name": "snatch",
             "level": 0
         },
         {
@@ -317,31 +282,19 @@
             "level": 0
         },
         {
-            "name": "blast-burn",
+            "name": "signal-beam",
             "level": 0
         },
         {
-            "name": "air-cutter",
+            "name": "calm-mind",
             "level": 0
         },
         {
-            "name": "overheat",
+            "name": "shock-wave",
             "level": 0
         },
         {
-            "name": "rock-tomb",
-            "level": 0
-        },
-        {
-            "name": "aerial-ace",
-            "level": 0
-        },
-        {
-            "name": "dragon-claw",
-            "level": 0
-        },
-        {
-            "name": "roost",
+            "name": "gravity",
             "level": 0
         },
         {
@@ -349,7 +302,7 @@
             "level": 0
         },
         {
-            "name": "tailwind",
+            "name": "embargo",
             "level": 0
         },
         {
@@ -357,35 +310,31 @@
             "level": 0
         },
         {
-            "name": "flare-blitz",
-            "level": 66
-        },
-        {
-            "name": "air-slash",
-            "level": 1
-        },
-        {
-            "name": "dragon-pulse",
+            "name": "psycho-shift",
             "level": 0
         },
         {
-            "name": "focus-blast",
+            "name": "power-trick",
             "level": 0
         },
         {
-            "name": "giga-impact",
+            "name": "guard-swap",
             "level": 0
         },
         {
-            "name": "shadow-claw",
-            "level": 1
+            "name": "drain-punch",
+            "level": 0
         },
         {
-            "name": "fire-fang",
-            "level": 28
+            "name": "energy-ball",
+            "level": 0
         },
         {
-            "name": "defog",
+            "name": "zen-headbutt",
+            "level": 0
+        },
+        {
+            "name": "trick-room",
             "level": 0
         },
         {
@@ -393,19 +342,35 @@
             "level": 0
         },
         {
-            "name": "ominous-wind",
+            "name": "grass-knot",
             "level": 0
         },
         {
-            "name": "hone-claws",
+            "name": "charge-beam",
             "level": 0
         },
         {
-            "name": "flame-burst",
-            "level": 32
+            "name": "guard-split",
+            "level": 0
         },
         {
-            "name": "flame-charge",
+            "name": "wonder-room",
+            "level": 0
+        },
+        {
+            "name": "psyshock",
+            "level": 0
+        },
+        {
+            "name": "telekinesis",
+            "level": 0
+        },
+        {
+            "name": "magic-room",
+            "level": 0
+        },
+        {
+            "name": "foul-play",
             "level": 0
         },
         {
@@ -413,35 +378,7 @@
             "level": 0
         },
         {
-            "name": "echoed-voice",
-            "level": 0
-        },
-        {
-            "name": "sky-drop",
-            "level": 0
-        },
-        {
-            "name": "incinerate",
-            "level": 0
-        },
-        {
-            "name": "inferno",
-            "level": 62
-        },
-        {
-            "name": "fire-pledge",
-            "level": 0
-        },
-        {
-            "name": "bulldoze",
-            "level": 0
-        },
-        {
-            "name": "dragon-tail",
-            "level": 0
-        },
-        {
-            "name": "work-up",
+            "name": "ally-switch",
             "level": 0
         },
         {
@@ -449,17 +386,17 @@
             "level": 0
         },
         {
-            "name": "power-up-punch",
+            "name": "dazzling-gleam",
             "level": 0
         },
         {
-            "name": "brutal-swing",
+            "name": "psychic-terrain",
             "level": 0
         }
     ],
     "sprites": {
-        "default_sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
-        "shiny_sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/6.png",
-        "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png"
+        "default_sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png",
+        "shiny_sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/63.png",
+        "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png"
     }
 }
